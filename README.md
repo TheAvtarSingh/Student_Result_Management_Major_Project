@@ -1,6 +1,6 @@
-# Student Result Management Project 2023
+# Student Result Management Project 2023 :heart_eyes:
 
-### Stack Used - MERN [Mongodb,Express,Reactjs,Nodejs]
+### Stack Used - MERN [Mongodb,Express,Reactjs,Nodejs] :file_folder:
 
 `Currently under construction`
 
