@@ -41,7 +41,7 @@ export default function StudentLoginPage() {
       })
       .then((resData) => {
         if (resData.errors === undefined) {
-          setcorrect(true);
+           setcorrect(true);
            setTimeout(()=>{ navigate("/") }, 5000);
           
         } else {

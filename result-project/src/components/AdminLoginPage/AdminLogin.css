@@ -1,0 +1,11 @@
+
+.admin_image{
+display: none;
+}
+
+@media screen and (max-width: 992px) {
+    .admin_image {
+        width: 50vw;
+        display: inline;
+    }
+}
