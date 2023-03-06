@@ -1,11 +1,6 @@
 const mongoose = require("mongoose");
-/* const mongouri =
-  "mongodb+srv://result_project:Avtar123@geturresult.jiq2aiw.mongodb.net/geturresult?retryWrites=true&w=majority"; */
-const mongouri =
-  "mongodb://result_project:00000000@ac-linxd66-shard-00-00.jiq2aiw.mongodb.net:27017,ac-linxd66-shard-00-01.jiq2aiw.mongodb.net:27017,ac-linxd66-shard-00-02.jiq2aiw.mongodb.net:27017/geturresult?ssl=true&replicaSet=atlas-zqua33-shard-0&authSource=admin&retryWrites=true&w=majority";
- /* const mongouri =
-  "mongodb://localhost:27017"; */ 
 
+const mongouri= "Your Url";
 
 
 const mongodb = async () => {
