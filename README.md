@@ -2,6 +2,11 @@
 
 ### Stack Used - MERN [Mongodb,Express,Reactjs,Nodejs] :file_folder:
 
+### Seperated Repo Links 
+
+##### FrontEnd - https://github.com/TheAvtarSingh/Student_Result_Project_Frontend
+##### BackEnd - https://github.com/TheAvtarSingh/Student_Result_Project_Backend
+
 `Currently under construction`
 
 ## get backend series - https://github.com/TheAvtarSingh/Backend-dev-2023
